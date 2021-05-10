@@ -65,7 +65,9 @@ NTA boundaries and their associated names may not definitively represent neighbo
 2. Visualization
 - Using Folium Library to visualize the locations of NTA in New York and for a particular borough
 
-![image info](./images/newyork.png)   ![image info](./images/manhattan.png)
+![newyork info](./images/newyork.png)   
+
+![manhattan info](./images/manhattan.png)
 
 - Visualize the results of classification
 
@@ -74,7 +76,7 @@ NTA boundaries and their associated names may not definitively represent neighbo
 
 # Result
 
-![image info](./images/clusters.png)
+![clusters info](./images/clusters.png)
 
 # Discussion
 
