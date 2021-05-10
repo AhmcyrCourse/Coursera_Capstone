@@ -65,17 +65,22 @@ NTA boundaries and their associated names may not definitively represent neighbo
 2. Visualization
 - Using Folium Library to visualize the locations of NTA in New York and for a particular borough
 
+Neighborhood Tabular Area Centers in New York
+
 ![newyork info](./images/newyork.png)   
+
+Neighborhood Tabular Area Centers in Manhattan Borough
 
 ![manhattan info](./images/manhattan.png)
 
 - Visualize the results of classification
 
 3- Algorithm of Classification
-- We use KMeans algorithm. 
+- We apply KMeans algorithm on the final dataframe. 
 
 # Result
 
+- Result of the clustering
 ![clusters info](./images/clusters.png)
 
 # Discussion
