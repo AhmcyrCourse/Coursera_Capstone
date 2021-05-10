@@ -64,17 +64,14 @@ NTA boundaries and their associated names may not definitively represent neighbo
 
 2. Visualization
 - Using Folium Library to visualize the locations of NTA in New York and for a particular borough
+![image info](./newyork.png)   ![image info](./manhattan.png)
 - Visualize the results of classification
 
 3- Algorithm of Classification
 - We use KMeans algorithm. 
 
-[here](clusters.html)
-![image info](./clusters.html)
-
-
-
-
+# Result
+![image info](./clusters.png))
 
 
 # Discussion
@@ -88,7 +85,3 @@ Our analysis did not take into account the repartition of population in a distri
 In terms of future work, I would be interested in applying the approach to other boroughs and also with other advanced machine learning techniques such as Density-based clustering (DBSCAN) to reinforce the clustering.
 
 
-
-```python
-
-```
